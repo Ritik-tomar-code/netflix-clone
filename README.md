@@ -1,4 +1,4 @@
-# netflix-clone
+<img width="1880" height="871" alt="Screenshot 2025-07-20 230539" src="https://github.com/user-attachments/assets/e37e9349-8289-4319-aeec-9207eab0a431" /># netflix-clone
 Netflix Clone | HTML & CSS
 A fully responsive and visually appealing clone of the Netflix website built with HTML and CSS.
 This project replicates the main layout of Netflix, featuring hero banners, movie rows, and a navigation bar for a clean, modern look.
@@ -77,7 +77,7 @@ Keep your changes clean and documented.
 
 <img width="1886" height="873" alt="Screenshot 2025-07-20 230510" src="https://github.com/user-attachments/assets/5c74677d-a2c2-4f43-847d-dfd12afe9271" />
 
-![Uploading Screenshot 2025-07-20 230539.png…]()
+<img width="1880" height="871" alt="Screenshot 2025-07-20 230539" src="https://github.com/user-attachments/assets/64eaeee6-8782-4c7e-8ba4-a014e8e6f740" />
 
 
 <img width="1867" height="860" alt="Screenshot 2025-07-20 230559" src="https://github.com/user-attachments/assets/60688698-4272-4869-b38e-de8c669c8d7d" />
